@@ -1,0 +1,9 @@
+{
+  "name": "wealthville-jup-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "undici": "^6.19.8"
+  }
+}
